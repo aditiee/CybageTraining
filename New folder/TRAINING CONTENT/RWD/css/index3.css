@@ -1,0 +1,24 @@
+.banner
+{
+    background: url(https://sportshub.cbsistatic.com/i/r/2019/09/26/f81faf11-54b5-4c2f-9d7f-d129b9e45803/thumbnail/1200x675/beefd31357d4275a3ae41939e2b02019/college-football-general.jpg);
+    width: 960px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+}
+
+@media all and (max-width:1000px) {
+    .banner{
+        width: 100%;
+        background-size: cover;
+    }
+    
+}
+.wrapper
+{
+    background-color: turquoise;
+}

@@ -1,0 +1,22 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.changeColor
+{
+    margin: 100px;
+    padding: 20px;
+    
+}
+.btn
+{
+    outline: none;
+    background-color:gray;
+    color: white;
+    padding: 5px;
+   
+   
+}

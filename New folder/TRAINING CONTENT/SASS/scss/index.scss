@@ -1,0 +1,20 @@
+@import 'variables/variable';
+h1{
+    color:$primary-color;
+    border: $my-width dashed;
+}
+
+.border
+{
+    background-color: darken($primary-color, $amount: 20%);
+    height: $my-width+10;
+
+}
+div{
+@include my-Style($height,$width,$background-color)
+}
+
+$font-weights: ("regular": 400, "medium": 500, "bold": 700);
+
+@debug map.deep-remove($font-weights, "regular");
+// ("medium": 500, "bold": 700)

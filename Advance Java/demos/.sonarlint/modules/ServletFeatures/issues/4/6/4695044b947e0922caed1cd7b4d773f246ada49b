@@ -1,0 +1,26 @@
+
+Ysquid:S19892"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHãRMINORZVULNERABILITY
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(•¡¯ÔHèRMINORZ
+CODE_SMELL
+Ysquid:S19892"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHäRMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHéRMAJORZ
+CODE_SMELL
+gsquid:S11610":Add the "@Override" annotation above this method signature(‹¨¯¿HêRMAJORZ
+CODE_SMELL
+csquid:S1135 "2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHæRINFOZ
+CODE_SMELL
+squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Ÿ¬¹Ï8ôý«‰Œ-HþRMAJORZ
+CODE_SMELL
+csquid:S11351"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHçRINFOZ
+CODE_SMELL
+]squid:S1989""(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿHàRMINORZVULNERABILITY
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHåRINFOZ
+CODE_SMELL
+bsquid:S1989*"&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿ8ì¢ä‹Œ-H”RMINORZVULNERABILITY
+bsquid:S1989*"&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿ8ì¢ä‹Œ-H•RMINORZVULNERABILITY
+squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ãžü8ì¢ä‹Œ-H–RMAJORZ
+CODE_SMELL
+asquid:S1481""(Remove this unused "out" local variable.(ïô†úÿÿÿÿ8ì¢ä‹Œ-H—RMINORZ
+CODE_SMELL
+psquid:S1854""7Remove this useless assignment to local variable "out".(ïô†úÿÿÿÿ8ì¢ä‹Œ-H˜RMAJORZ
+CODE_SMELL

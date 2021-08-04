@@ -1,0 +1,152 @@
+/* normalize css */
+*,
+html {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.top-header {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  background-color: aliceblue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.top-nav {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.top-nav a {
+  padding: 15px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.menu {
+  
+  display: none;
+}
+
+/* style for main body */
+.main-body {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.quick-links {
+  flex: 8%;
+  background-color: lightgray;
+  padding: 10px;
+}
+.middle-article {
+  flex: 84%;
+  padding: 10px;
+}
+.middle-article p {
+  column-count: 5;
+  line-height: 1.1cm;
+  word-spacing: 1mm;
+}
+.ad-section {
+  flex: 8%;
+  background-color: bisque;
+  height: 40vh;
+}
+
+/* style for product */
+.product-container {
+  flex: 84%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.product {
+  border: 1px solid grey;
+  margin: 10px;
+  height: 250px;
+  width: 250px;
+
+
+}
+.product button {
+  width: 100%;
+  border: none;
+  padding: 10px;
+}
+.product button:hover {
+  background-color: darkgrey;
+}
+
+.main-footer {
+  display: flex;
+  text-align: center;
+  background-color: lightblue;
+  /* position: fixed;
+  bottom: 0;
+  width: 100%; */
+}
+.main-footer div {
+  flex: 33.33%;
+}
+.main-footer div ul {
+  list-style-type: none;
+}
+.main-footer div li:first-child {
+  font-weight: bold;
+  border-bottom: 1px solid red;
+}
+
+/* mobile styles */
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+  .top-header {
+    flex-direction: column;
+  }
+
+  .top-nav {
+    flex-direction: column;
+    background-color: lightblue;
+    width: 100%;
+  }
+  .menu {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+
+  /* for middle and footer */
+  /* style for main body */
+  .main-body {
+    flex-direction: column;
+  }
+  .quick-links {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .quick-links ul {
+    list-style-type: none;
+  }
+  .middle-article p {
+    column-count: 1;
+  }
+  .ad-section {
+    flex: 8%;
+    background-color: bisque;
+    height: 40vh;
+    width: 150px;
+    /* display: none; */
+  }
+  .ad-section ul {
+    list-style-type: none;
+  }
+  .main-footer {
+    flex-direction: column;
+  }
+}

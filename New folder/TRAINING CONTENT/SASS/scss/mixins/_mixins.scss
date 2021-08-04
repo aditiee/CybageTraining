@@ -1,0 +1,7 @@
+@mixin my-Style($height,$width,$background-color)
+{
+    $height:$height;
+    $width:map-get($map: $my-gap, $key:"my-val" );
+    $background-color:$background-color;
+
+}

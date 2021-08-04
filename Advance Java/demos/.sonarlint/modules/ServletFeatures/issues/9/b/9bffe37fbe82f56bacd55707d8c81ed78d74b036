@@ -1,0 +1,21 @@
+
+„squid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Ç—´‚úÿÿÿÿ8™â¬’Œ-HRMAJORZ
+CODE_SMELL
+asquid:S1481 "(Remove this unused "out" local variable.(ïô†úÿÿÿÿ8’‘Æ‘Œ-HžRMINORZ
+CODE_SMELL
+psquid:S1854 "7Remove this useless assignment to local variable "out".(ïô†úÿÿÿÿ8’‘Æ‘Œ-HŸRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(æÊ˜Í8’‘Æ‘Œ-H RMAJORZ
+CODE_SMELL
+bsquid:S1989+"+Add a "try/catch" block for "sendRedirect".(ª•×„8£ÖÃ‘Œ-H¡RMINORZVULNERABILITY
+Xsquid:S1989?"(Add a "try/catch" block for "getWriter".(‡ßÓ’H¢RMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(þ³‚”ûÿÿÿÿH£RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(é’Ü8™â¬’Œ-H¤RMAJORZ
+CODE_SMELL
+]squid:S1989 "(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH¥RMINORZVULNERABILITY
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(â¡Ò€úÿÿÿÿ8™â¬’Œ-H¦RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH§RINFOZ
+CODE_SMELL

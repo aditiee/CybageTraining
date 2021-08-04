@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <form style="display: flex;justify-content: center;align-items: center;">
+    <div>
+        <h2>Compound Interest Calculator</h2>
+        <P style="color:gray;"><strong>Enter your Principal Amount :</strong><input type="text" id="getPrincipalValue" name="prncipal"  placeholder="Principal" ></P>
+        <P style="color:gray;"><strong>Enter the interest Rate :</strong><input type="text" id="getInterestRate" name="interest"  placeholder="Interest Rate" ></P>
+        <P style="color:gray"><strong>Enter the Interest paid in " n" amount of  year :</strong> <input type="text" id="getYear" name="year"  placeholder="year" ></P>
+       
+        <input type="button" value="Calculate" id="" onclick="compoundInterest(this.principal , this.interest , this.nyear );"/></P>
+</div>
+
+</form>
+
+
+<p id="CI"> </p>
+<script src="../js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+INFO	2021-06-03 11:31:00,464	0	com.cybage.log4jdemo.App	[main]	App Initiated the logger
+WARN	2021-06-03 11:31:00,466	2	com.cybage.log4jdemo.App	[main]	App Warning message

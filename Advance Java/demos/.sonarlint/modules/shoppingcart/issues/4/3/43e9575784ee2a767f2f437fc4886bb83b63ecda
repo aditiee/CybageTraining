@@ -1,0 +1,20 @@
+
+Ysquid:S19890"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHÐRMINORZVULNERABILITY
+gsquid:S1989'"+Add a "try/catch" block for "sendRedirect".(üë´²üÿÿÿÿ8’‘ÈµŒ-HäRMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+dsquid:S1989""(Add a "try/catch" block for "getWriter".(ü’’¯øÿÿÿÿ8²ÔÆµŒ-HàRMINORZVULNERABILITY
+}squid:S1192 "FDefine a constant instead of duplicating this literal "uname" 3 times.(œÎˆ¼8 ÎáµŒ-H°RCRITICALZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÑRINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÓRINFOZ
+CODE_SMELL
+csquid:S1135/"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÒRINFOZ
+CODE_SMELL
+Ysquid:S19890"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHÏRMINORZVULNERABILITY
+Gsquid:S1220""Move this file to a named package.HÔRMINORZ
+CODE_SMELL
+dsquid:S1989$"(Add a "try/catch" block for "getWriter".(þö‚³ÿÿÿÿÿ8 ÎáµŒ-H±RMINORZVULNERABILITY
+gsquid:S1161.":Add the "@Override" annotation above this method signature(‹¨¯¿HÖRMAJORZ
+CODE_SMELL

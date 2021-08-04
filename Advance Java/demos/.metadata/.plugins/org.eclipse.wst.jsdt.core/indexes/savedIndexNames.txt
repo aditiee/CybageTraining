@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+D:\AdvJavaJan19\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1958574627.index
+1336828075.index
+696324624.index
+3864979987.index
+852542646.index
+3781211080.index
+1850820959.index
+3497704516.index

@@ -1,0 +1,16 @@
+
+ssquid:S1161(":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8ªŸ‡º‹-H™RMAJORZ
+CODE_SMELL
+csquid:S1135!"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHšRINFOZ
+CODE_SMELL
+dsquid:S1989+"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8¨º’»‹-H›RMINORZVULNERABILITY
+csquid:S1135)"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHœRINFOZ
+CODE_SMELL
+nsquid:S11613":Add the "@Override" annotation above this method signature(‹¨¯¿8ªŸ‡º‹-HRMAJORZ
+CODE_SMELL
+_squid:S19895"(Add a "try/catch" block for "getWriter".(©ô¿8¨˜½ŠŒ-HRMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹½ 8¨˜½ŠŒ-HŸRMAJORZ
+CODE_SMELL
+jsquid:S11354"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¨˜½ŠŒ-H RINFOZ
+CODE_SMELL

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <style>
+        div
+        {
+            background-color: palevioletred;
+            border: 2px solid purple;
+            /* margin: 10px; */
+        }
+    </style>
+</head>
+<body>
+   
+    <div class="container">
+        <div class="container">
+            <div class="row justify-content-start ">
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+            </div>
+            <div class="row justify-content-end">
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+            </div>
+            <div class="row justify-content-around">
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+            </div>
+            <div class="row justify-content-between">
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+              <div class="col-4  bg-white">
+                One of two columns
+              </div>
+            </div>
+          </div>
+      </div>
+    <div class="container-fluid ">Container Fluid
+     
+          
+            <!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
+            <div class="row" style="height: 350px;margin: 0px;;">
+              <div class="col-2">LEFT</div>
+              <div class="col-8 d-flex justify-content-center align-items-center bg-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis unde a aliquid neque inventore quis doloremque iure quaerat, magnam deserunt facilis nisi distinctio officiis animi corporis natus assumenda deleniti vero.</div>
+              <div class="col-2 ">RIGHT</div>
+            </div>
+          
+            <!-- Columns are always 50% wide, on mobile and desktop -->
+            <div class="row  justify-content-between">
+              <div class="col-4 align-items-lg-start bg-light">.col-6</div>
+              <div class="col-4 align-items-end bg-light">.col-6</div>
+            </div>
+        
+    </div>
+    <div class="container-sm">100% wide until small breakpoint</div>
+<div class="container-md">100% wide until medium breakpoint</div>
+<div class="container-lg">100% wide until large breakpoint</div>
+<div class="container-xl">100% wide until extra large breakpoint</div>
+</body>
+<script src="../js/bootstrap.min.js"></script>
+</html>

@@ -1,0 +1,20 @@
+
+[squid:S1989#"&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿHÕRMINORZVULNERABILITY
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(•¡¯ÔHØRMINORZ
+CODE_SMELL
+bsquid:S1989("+Add a "try/catch" block for "sendRedirect".(¼ŠÓð8™Ó³‰Œ-H„RMINORZVULNERABILITY
+Xsquid:S1989 "(Add a "try/catch" block for "getWriter".(³§ŒÆHÚRMINORZVULNERABILITY
+csquid:S11353"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÞRINFOZ
+CODE_SMELL
+lsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH×RINFOZ
+CODE_SMELL
+gsquid:S11612":Add the "@Override" annotation above this method signature(‹¨¯¿HÒRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHßRINFOZ
+CODE_SMELL
+Ysquid:S19894"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHÓRMINORZVULNERABILITY
+Xsquid:S1989,"(Add a "try/catch" block for "getWriter".(ÏÚ‚´HÝRMINORZVULNERABILITY
+[squid:S1989#"&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿHÛRMINORZVULNERABILITY
+Ysquid:S19894"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHÙRMINORZVULNERABILITY

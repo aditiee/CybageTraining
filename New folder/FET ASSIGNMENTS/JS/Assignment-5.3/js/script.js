@@ -1,0 +1,1 @@
+document.querySelector("#div1").innerHTML+=`<p>This is new.</p>`

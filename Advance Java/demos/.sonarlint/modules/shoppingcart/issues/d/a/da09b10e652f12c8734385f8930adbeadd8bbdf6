@@ -1,0 +1,18 @@
+
+]squid:S1989%"(Add a "try/catch" block for "getWriter".(ìíãòÿÿÿÿÿH—RMINORZVULNERABILITY
+Ysquid:S19890"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿH™RMINORZVULNERABILITY
+dsquid:S1989("(Add a "try/catch" block for "getWriter".(¥ÈúŞùÿÿÿÿ8íØ†¶Œ-HåRMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHRMAJORZ
+CODE_SMELL
+dsquid:S1989""(Add a "try/catch" block for "getWriter".(’¢Ğ‹ùÿÿÿÿ8é³ÛµŒ-H¦RMINORZVULNERABILITY
+gsquid:S1161.":Add the "@Override" annotation above this method signature(‹¨¯¿HŸRMAJORZ
+CODE_SMELL
+Ysquid:S19890"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿH˜RMINORZVULNERABILITY
+csquid:S1135/"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHœRINFOZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+csquid:S1135 "2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH›RINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHšRINFOZ
+CODE_SMELL

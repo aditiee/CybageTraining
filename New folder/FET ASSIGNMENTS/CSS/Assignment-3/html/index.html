@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+    <table>
+        <h1>Registeration Form</h1>
+        <tr>
+         
+            <td>  <label for="">Employee ID : </label></td>
+            <td><input type="number" name="" id="empID" min=" 10001" max="15000"></td>
+        </tr>
+        <tr>
+            <td><label for="">First Name :</label></td>
+            <td><input type="text" name="" id="fname" placeholder="First Name.."></td>
+        </tr>
+        <tr>
+            <td><label for="">Name :</label></td>
+            <td><input type="text" name="" id="lname" placeholder="Last Name"></td>
+        </tr>
+        <tr>
+            <td><label for="">Department : </label></td>
+            <td>
+                <input type="radio" name="" id="">IT<br>
+                <input type="radio" name="" id="">HR<br>
+                <input type="radio" name="" id="">Finance<br>
+                <input type="radio" name="" id="">Admin<br>
+          </td>
+        </tr>
+        <tr>
+            <td><label for="">Date of Joining : </label></td>
+            <td><input type="date" name="" id="doj"></td>
+        </tr>
+        <tr>
+            <td><label for="">Email :</label></td>
+            <td><input type="email" name="" id="email"></td>
+        </tr>
+        <tr>
+            <td><label for="">Contact No :</label> </td>
+            <td><input type="tel" name="" id="contact" maxlength="10" minlength="10" pattern="[7-9]{1}+[0-9]{9}"></td>
+        </tr>
+        <tr>
+            <td><label for="">Address : </label></td>
+            <td><label for=""></label>  <textarea name="" id="address" cols="20" rows="5"></textarea></td>
+        </tr>
+        <tr>
+            <td><label for="">Training Program to be attended</label></td>
+            <td>
+                <input type="checkbox" name="Web Basics" id="Web Basic"> 
+                <label for="Web Basics">Web Basics</label><br>
+                <input type="checkbox" name="C#" id="C#"> 
+                <label for="C#">C#</label><br>
+                <input type="checkbox" name="Entity framework" id="Entity framework"> 
+                <label for="Entity framework">Entity framework</label><br>
+                <input type="checkbox" name="ASP.NET MVC" id="ASP.NET MVC"> 
+                <label for="ASP.NET MVC">ASP.NET MVC</label> <br>
+
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Register" >
+                <input type="reset"  value="Cancel">
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>

@@ -1,0 +1,18 @@
+
+„squid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(›áÛàüÿÿÿÿ8µ¶Ô‘Œ-H¨RMAJORZ
+CODE_SMELL
+Zsquid:S19898"%Add a "try/catch" block for "doPost".(Í†»ÖúÿÿÿÿH©RMINORZVULNERABILITY
+squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(åÅ¼Í8Çö«’Œ-HªRMAJORZ
+CODE_SMELL
+Zsquid:S19898"%Add a "try/catch" block for "doPost".(Í†»ÖúÿÿÿÿH«RMINORZVULNERABILITY
+Ysquid:S19899"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿH¬RMINORZVULNERABILITY
+„squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(£›ñ¢ÿÿÿÿÿ8šÕÅ‘Œ-H­RMAJORZ
+CODE_SMELL
+csquid:S11357"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH®RINFOZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH¯RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH°RINFOZ
+CODE_SMELL
+]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH±RMINORZVULNERABILITY
+Ysquid:S19899"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿH²RMINORZVULNERABILITY

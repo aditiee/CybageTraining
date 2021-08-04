@@ -1,0 +1,17 @@
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 100px;
+}
+
+table {
+    border:1px solid silver
+    }
+    th {
+    background-color: #ccc;
+    }
+    tbody tr:nth-child(even) {
+    background-color: #abe113;
+    }
